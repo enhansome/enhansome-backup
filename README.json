@@ -42,7 +42,7 @@
             "archived": false,
             "id": 35517126,
             "language": "Python",
-            "last_commit": "2026-08-24T20:38:35Z",
+            "last_commit": "2026-08-25T05:47:08Z",
             "owner": "borgbackup",
             "repo": "borg",
             "stars": 13650
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-25T01:28:51Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 87957
+            "stars": 87965
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-24T17:16:32Z",
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59370
+            "stars": 59374
           }
         }
       ],
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:33:17.868Z",
+    "last_updated": "2026-08-25T06:31:02.436Z",
     "original_repository": "oz123/awesome-backup",
     "original_repository_id": 39332937,
     "original_repository_sha": "93a296c6ca8e259a29cd8b77d295e9668d905203",
