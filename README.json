@@ -42,10 +42,10 @@
             "archived": false,
             "id": 35517126,
             "language": "Python",
-            "last_commit": "2026-08-25T18:59:18Z",
+            "last_commit": "2026-08-26T12:56:14Z",
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13651
+            "stars": 13655
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-25T01:28:51Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 87991
+            "stars": 88034
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-08-29T11:10:39Z",
             "owner": "knoxite",
             "repo": "knoxite",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 17883395,
             "language": "C",
-            "last_commit": "2026-08-25T22:43:18Z",
+            "last_commit": "2026-08-27T07:17:12Z",
             "owner": "amadvance",
             "repo": "snapraid",
             "stars": 2556
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 22636263,
             "language": "C#",
-            "last_commit": "2026-08-25T15:38:50Z",
+            "last_commit": "2026-08-27T09:23:03Z",
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 14937
+            "stars": 14938
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-20T09:27:55Z",
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5153
+            "stars": 5159
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-14T11:00:58Z",
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2785
+            "stars": 2862
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-14T11:00:58Z",
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2785
+            "stars": 2862
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 17803236,
             "language": "Go",
-            "last_commit": "2026-08-25T08:32:53Z",
+            "last_commit": "2026-08-27T11:12:09Z",
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59395
+            "stars": 59412
           }
         }
       ],
@@ -263,9 +263,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:41:06.123Z",
-    "original_repository": "oz123/awesome-backup",
-    "original_repository_id": 39332937,
+    "last_updated": "2026-08-27T11:14:23.752Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 39332937,
+      "language": null,
+      "last_commit": "2025-09-10T19:28:51Z",
+      "owner": "oz123",
+      "repo": "awesome-backup",
+      "stars": 147
+    },
     "original_repository_sha": "93a296c6ca8e259a29cd8b77d295e9668d905203",
     "enhanced_repository": "enhansome/enhansome-backup",
     "enhanced_repository_description": null,
