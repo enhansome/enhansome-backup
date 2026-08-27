@@ -75,7 +75,7 @@
             "last_commit": "2026-08-25T01:28:51Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88034
+            "stars": 88035
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-14T11:00:58Z",
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2862
+            "stars": 2863
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-14T11:00:58Z",
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2862
+            "stars": 2863
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-27T11:12:09Z",
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59412
+            "stars": 59413
           }
         }
       ],
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:14:23.752Z",
+    "last_updated": "2026-08-27T11:29:45.942Z",
     "original_repository_info": {
       "archived": false,
       "id": 39332937,
