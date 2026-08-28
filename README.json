@@ -16,7 +16,8 @@
             "owner": "grke",
             "repo": "burp",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-06T03:41:54Z",
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5670
-          }
+            "stars": 5669
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 35517126,
             "language": "Python",
-            "last_commit": "2026-08-26T12:56:14Z",
+            "last_commit": "2026-08-28T12:23:17Z",
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13655
-          }
+            "stars": 13658
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-22T20:11:42Z",
             "owner": "bup",
             "repo": "bup",
-            "stars": 7341
-          }
+            "stars": 7340
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-25T01:28:51Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88035
-          }
+            "stars": 88078
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "digint",
             "repo": "btrbk",
             "stars": 2141
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dpc",
             "repo": "rdedup",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "knoxite",
             "repo": "knoxite",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "zpaq",
             "repo": "zpaq",
             "stars": 631
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 17883395,
             "language": "C",
-            "last_commit": "2026-08-27T07:17:12Z",
+            "last_commit": "2026-08-28T12:25:10Z",
             "owner": "amadvance",
             "repo": "snapraid",
             "stars": 2556
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 22636263,
             "language": "C#",
-            "last_commit": "2026-08-27T09:23:03Z",
+            "last_commit": "2026-08-28T12:41:30Z",
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 14938
-          }
+            "stars": 14941
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 266877886,
             "language": "C",
-            "last_commit": "2026-08-20T09:27:55Z",
+            "last_commit": "2026-08-28T09:37:01Z",
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5159
-          }
+            "stars": 5160
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "guiofsaints",
             "repo": "backup-anything",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "vdbsh",
             "repo": "backy",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2026-08-14T11:00:58Z",
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2863
-          }
+            "stars": 2882
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -240,8 +255,9 @@
             "last_commit": "2026-08-14T11:00:58Z",
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2863
-          }
+            "stars": 2882
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         },
         {
           "node_type": "item",
@@ -252,18 +268,19 @@
             "archived": false,
             "id": 17803236,
             "language": "Go",
-            "last_commit": "2026-08-27T11:12:09Z",
+            "last_commit": "2026-08-27T16:28:10Z",
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59413
-          }
+            "stars": 59431
+          },
+          "first_seen": "2026-08-28T12:58:10.490Z"
         }
       ],
       "title": "A list of FOSS backup software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:45.942Z",
+    "last_updated": "2026-08-28T12:58:10.490Z",
     "original_repository_info": {
       "archived": false,
       "id": 39332937,
