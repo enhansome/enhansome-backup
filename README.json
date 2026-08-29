@@ -111,7 +111,7 @@
             "open_issues": 379,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88092,
+            "stars": 88095,
             "topics": [
               "go",
               "p2p",
@@ -235,7 +235,7 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T22:29:07Z",
+            "last_commit": "2026-08-29T07:46:57Z",
             "open_issues": 13,
             "owner": "amadvance",
             "repo": "snapraid",
@@ -257,7 +257,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:46:51Z",
-            "open_issues": 637,
+            "open_issues": 638,
             "owner": "duplicati",
             "repo": "duplicati",
             "stars": 14944,
@@ -433,10 +433,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-28T19:45:29Z",
-            "open_issues": 1244,
+            "open_issues": 1245,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59438,
+            "stars": 59437,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:26.481Z",
+    "last_updated": "2026-08-29T07:55:18.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
