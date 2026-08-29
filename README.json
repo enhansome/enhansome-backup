@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "burp - backup and restore program",
+            "homepage": "http://burp.grke.net",
             "id": 1536544,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-13T21:58:43Z",
+            "open_issues": 80,
             "owner": "grke",
             "repo": "burp",
-            "stars": 503
+            "stars": 502,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new generation cloud backup tool ",
+            "homepage": "https://duplicacy.com",
             "id": 52319759,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T03:41:54Z",
+            "open_issues": 335,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5669
+            "stars": 5669,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -42,12 +52,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deduplicating archiver with compression and authenticated encryption.",
+            "homepage": "https://www.borgbackup.org/",
             "id": 35517126,
             "language": "Python",
-            "last_commit": "2026-08-28T12:23:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:17:03Z",
+            "open_issues": 228,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13658
+            "stars": 13660,
+            "topics": [
+              "backup",
+              "borgbackup",
+              "compression",
+              "deduplication",
+              "encryption",
+              "python",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
+            "homepage": "https://bup.github.io/",
             "id": 5664897,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T20:11:42Z",
+            "open_issues": 17,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7340
+            "stars": 7340,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -74,12 +102,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Continuous File Synchronization",
+            "homepage": "https://syncthing.net/",
             "id": 14712850,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T01:28:51Z",
+            "open_issues": 379,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88078
+            "stars": 88092,
+            "topics": [
+              "go",
+              "p2p",
+              "peer-to-peer",
+              "synchronization"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -90,12 +128,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for creating snapshots and remote backups of btrfs subvolumes",
+            "homepage": "https://digint.ch/btrbk/",
             "id": 30596420,
             "language": "Perl",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-19T17:33:32Z",
+            "open_issues": 276,
             "owner": "digint",
             "repo": "btrbk",
-            "stars": 2141
+            "stars": 2141,
+            "topics": [
+              "backup",
+              "btrfs",
+              "encrypted-backups",
+              "incremental-backups",
+              "snapshot"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -106,12 +155,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data deduplication engine, supporting optional compression and public key encryption.",
+            "homepage": null,
             "id": 54696895,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-08-25T22:14:28Z",
+            "open_issues": 51,
             "owner": "dpc",
             "repo": "rdedup",
-            "stars": 855
+            "stars": 855,
+            "topics": [
+              "backup",
+              "data-deduplication",
+              "deduplication",
+              "encryption"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -122,12 +181,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A data storage & backup system",
+            "homepage": "https://knoxite.com",
             "id": 64353454,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2023-08-29T11:10:39Z",
+            "open_issues": 50,
             "owner": "knoxite",
             "repo": "knoxite",
-            "stars": 492
+            "stars": 493,
+            "topics": [
+              "backup",
+              "data-storage",
+              "hacktoberfest",
+              "restore",
+              "snapshot",
+              "volumes"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -138,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZPAQ's complete code history mirror",
+            "homepage": "http://mattmahoney.net/dc/zpaq.html",
             "id": 6942426,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-12T18:45:24Z",
+            "open_issues": 1,
             "owner": "zpaq",
             "repo": "zpaq",
-            "stars": 631
+            "stars": 631,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -154,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures",
+            "homepage": "http://www.snapraid.it/",
             "id": 17883395,
             "language": "C",
-            "last_commit": "2026-08-28T12:25:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:29:07Z",
+            "open_issues": 13,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2556
+            "stars": 2556,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -170,12 +251,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store securely encrypted backups in the cloud!",
+            "homepage": null,
             "id": 22636263,
             "language": "C#",
-            "last_commit": "2026-08-28T12:41:30Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:46:51Z",
+            "open_issues": 637,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 14941
+            "stars": 14944,
+            "topics": [
+              "backup",
+              "c-sharp",
+              "client-only-backup",
+              "cloud-backup",
+              "cloud-storage-services",
+              "duplicati",
+              "encryption",
+              "sftp",
+              "tno-backup",
+              "trust-no-one-backup",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -186,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.",
+            "homepage": "https://rsync.samba.org",
             "id": 266877886,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T09:37:01Z",
+            "open_issues": 327,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5160
+            "stars": 5162,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -202,12 +305,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts to create a backup of anything.",
+            "homepage": null,
             "id": 469564476,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-19T13:04:36Z",
+            "open_issues": 0,
             "owner": "guiofsaints",
             "repo": "backup-anything",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "backup",
+              "bash",
+              "bucket",
+              "database",
+              "mongodb",
+              "mysql",
+              "postgresql",
+              "s3",
+              "script",
+              "security",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -218,12 +338,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "tiny multiprocessing utility for file backups",
+            "homepage": "https://github.com/vdbsh/backy",
             "id": 302922407,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-08-16T09:56:41Z",
+            "open_issues": 0,
             "owner": "vdbsh",
             "repo": "backy",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "archiving",
+              "backup",
+              "bsd",
+              "bzip2",
+              "cli",
+              "golang",
+              "linux",
+              "macos",
+              "rsync",
+              "synchronization",
+              "tar"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -234,12 +371,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗄 CLI tool for backup your databases, files to cloud storages in schedully.",
+            "homepage": "https://gobackup.github.io",
             "id": 102588436,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-14T11:00:58Z",
+            "open_issues": 5,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2882
+            "stars": 2913,
+            "topics": [
+              "backup",
+              "cli",
+              "go",
+              "mysql",
+              "postgresql",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -250,12 +399,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗄 CLI tool for backup your databases, files to cloud storages in schedully.",
+            "homepage": "https://gobackup.github.io",
             "id": 102588436,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-14T11:00:58Z",
+            "open_issues": 5,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2882
+            "stars": 2913,
+            "topics": [
+              "backup",
+              "cli",
+              "go",
+              "mysql",
+              "postgresql",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         },
@@ -266,12 +427,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+            "homepage": "https://rclone.org",
             "id": 17803236,
             "language": "Go",
-            "last_commit": "2026-08-27T16:28:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:45:29Z",
+            "open_issues": 1244,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59431
+            "stars": 59438,
+            "topics": [
+              "azure-blob",
+              "azure-blob-storage",
+              "azure-files",
+              "backblaze-b2",
+              "cloud-storage",
+              "dropbox",
+              "encryption",
+              "ftp",
+              "fuse-filesystem",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "google-drive",
+              "onedrive",
+              "openstack-swift",
+              "rclone",
+              "s3",
+              "sftp",
+              "sync",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
         }
@@ -280,15 +467,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:58:10.490Z",
+    "last_updated": "2026-08-29T04:54:26.481Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of FOSS backup software",
+      "homepage": null,
       "id": 39332937,
       "language": null,
+      "license": null,
       "last_commit": "2025-09-10T19:28:51Z",
+      "open_issues": 4,
       "owner": "oz123",
       "repo": "awesome-backup",
-      "stars": 147
+      "stars": 147,
+      "topics": [
+        "awesome-list",
+        "backup",
+        "foss-backup"
+      ]
     },
     "original_repository_sha": "93a296c6ca8e259a29cd8b77d295e9668d905203",
     "enhanced_repository": "enhansome/enhansome-backup",
