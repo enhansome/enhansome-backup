@@ -40,7 +40,7 @@
             "open_issues": 336,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5682,
+            "stars": 5683,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T04:32:53Z",
-            "open_issues": 203,
+            "last_commit": "2026-09-22T05:47:24Z",
+            "open_issues": 206,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13743,
+            "stars": 13750,
             "topics": [
               "backup",
               "borgbackup",
@@ -90,7 +90,7 @@
             "open_issues": 17,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7348,
+            "stars": 7352,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -108,10 +108,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-09-15T12:01:36Z",
-            "open_issues": 387,
+            "open_issues": 388,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88815,
+            "stars": 88829,
             "topics": [
               "go",
               "p2p",
@@ -235,11 +235,11 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T18:51:06Z",
+            "last_commit": "2026-09-21T15:27:18Z",
             "open_issues": 13,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2573,
+            "stars": 2572,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -256,11 +256,11 @@
             "id": 22636263,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T12:39:53Z",
-            "open_issues": 630,
+            "last_commit": "2026-09-21T15:25:58Z",
+            "open_issues": 635,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15017,
+            "stars": 15018,
             "topics": [
               "backup",
               "c-sharp",
@@ -289,11 +289,11 @@
             "id": 266877886,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T04:15:02Z",
+            "last_commit": "2026-09-21T10:18:37Z",
             "open_issues": 321,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5228,
+            "stars": 5231,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -380,7 +380,7 @@
             "open_issues": 6,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2983,
+            "stars": 2989,
             "topics": [
               "backup",
               "cli",
@@ -408,7 +408,7 @@
             "open_issues": 6,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 2983,
+            "stars": 2989,
             "topics": [
               "backup",
               "cli",
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-20T13:24:08Z",
-            "open_issues": 1279,
+            "last_commit": "2026-09-21T17:19:16Z",
+            "open_issues": 1270,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59867,
+            "stars": 59878,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:32:37.943Z",
+    "last_updated": "2026-09-22T06:21:58.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
