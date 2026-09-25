@@ -40,7 +40,7 @@
             "open_issues": 336,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5683,
+            "stars": 5684,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T23:14:41Z",
-            "open_issues": 199,
+            "last_commit": "2026-09-24T21:03:57Z",
+            "open_issues": 196,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13762,
+            "stars": 13763,
             "topics": [
               "backup",
               "borgbackup",
@@ -108,10 +108,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-09-23T01:17:37Z",
-            "open_issues": 383,
+            "open_issues": 384,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88882,
+            "stars": 88912,
             "topics": [
               "go",
               "p2p",
@@ -137,7 +137,7 @@
             "open_issues": 279,
             "owner": "digint",
             "repo": "btrbk",
-            "stars": 2155,
+            "stars": 2156,
             "topics": [
               "backup",
               "btrfs",
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "zpaq",
             "repo": "zpaq",
-            "stars": 633,
+            "stars": 636,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -235,11 +235,11 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T15:14:33Z",
+            "last_commit": "2026-09-24T20:20:02Z",
             "open_issues": 13,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2573,
+            "stars": 2574,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -260,7 +260,7 @@
             "open_issues": 629,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15021,
+            "stars": 15022,
             "topics": [
               "backup",
               "c-sharp",
@@ -293,7 +293,7 @@
             "open_issues": 321,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5237,
+            "stars": 5239,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -377,10 +377,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-14T11:00:58Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3049,
+            "stars": 3052,
             "topics": [
               "backup",
               "cli",
@@ -405,10 +405,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-14T11:00:58Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3049,
+            "stars": 3052,
             "topics": [
               "backup",
               "cli",
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-23T15:06:41Z",
-            "open_issues": 1273,
+            "last_commit": "2026-09-24T10:18:54Z",
+            "open_issues": 1278,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 59925,
+            "stars": 59941,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:15:16.664Z",
+    "last_updated": "2026-09-25T06:12:14.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
