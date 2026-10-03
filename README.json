@@ -108,7 +108,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-09-30T07:41:58Z",
-            "open_issues": 387,
+            "open_issues": 388,
             "owner": "syncthing",
             "repo": "syncthing",
             "stars": 89101,
@@ -293,7 +293,7 @@
             "open_issues": 328,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5258,
+            "stars": 5259,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -436,7 +436,7 @@
             "open_issues": 1311,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60078,
+            "stars": 60079,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:58.260Z",
+    "last_updated": "2026-10-03T06:38:15.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
