@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T23:03:25Z",
-            "open_issues": 209,
+            "last_commit": "2026-10-05T04:44:22Z",
+            "open_issues": 207,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13806,
+            "stars": 13809,
             "topics": [
               "backup",
               "borgbackup",
@@ -107,11 +107,11 @@
             "id": 14712850,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-04T06:16:10Z",
-            "open_issues": 389,
+            "last_commit": "2026-10-05T04:03:56Z",
+            "open_issues": 388,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89128,
+            "stars": 89148,
             "topics": [
               "go",
               "p2p",
@@ -239,7 +239,7 @@
             "open_issues": 12,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2584,
+            "stars": 2585,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -257,10 +257,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T11:39:51Z",
-            "open_issues": 615,
+            "open_issues": 612,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15053,
+            "stars": 15058,
             "topics": [
               "backup",
               "c-sharp",
@@ -293,7 +293,7 @@
             "open_issues": 326,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5262,
+            "stars": 5266,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -377,10 +377,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-14T11:00:58Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3068,
+            "stars": 3071,
             "topics": [
               "backup",
               "cli",
@@ -405,10 +405,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-14T11:00:58Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3068,
+            "stars": 3071,
             "topics": [
               "backup",
               "cli",
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-03T16:12:42Z",
-            "open_issues": 1311,
+            "last_commit": "2026-10-04T07:14:02Z",
+            "open_issues": 1313,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60096,
+            "stars": 60108,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:01:53.069Z",
+    "last_updated": "2026-10-05T07:12:17.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
