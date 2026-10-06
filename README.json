@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T04:44:22Z",
-            "open_issues": 207,
+            "last_commit": "2026-10-06T05:45:44Z",
+            "open_issues": 195,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13809,
+            "stars": 13811,
             "topics": [
               "backup",
               "borgbackup",
@@ -107,11 +107,11 @@
             "id": 14712850,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-05T04:03:56Z",
+            "last_commit": "2026-10-06T05:55:06Z",
             "open_issues": 388,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89148,
+            "stars": 89179,
             "topics": [
               "go",
               "p2p",
@@ -137,7 +137,7 @@
             "open_issues": 279,
             "owner": "digint",
             "repo": "btrbk",
-            "stars": 2161,
+            "stars": 2162,
             "topics": [
               "backup",
               "btrfs",
@@ -235,7 +235,7 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:12:22Z",
+            "last_commit": "2026-10-05T13:41:05Z",
             "open_issues": 12,
             "owner": "amadvance",
             "repo": "snapraid",
@@ -257,10 +257,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T11:39:51Z",
-            "open_issues": 612,
+            "open_issues": 615,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15058,
+            "stars": 15062,
             "topics": [
               "backup",
               "c-sharp",
@@ -289,11 +289,11 @@
             "id": 266877886,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T08:54:54Z",
-            "open_issues": 326,
+            "last_commit": "2026-10-05T22:53:28Z",
+            "open_issues": 324,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5266,
+            "stars": 5267,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -380,7 +380,7 @@
             "open_issues": 10,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3071,
+            "stars": 3072,
             "topics": [
               "backup",
               "cli",
@@ -408,7 +408,7 @@
             "open_issues": 10,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3071,
+            "stars": 3072,
             "topics": [
               "backup",
               "cli",
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-04T07:14:02Z",
-            "open_issues": 1313,
+            "last_commit": "2026-10-05T16:59:13Z",
+            "open_issues": 1325,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60108,
+            "stars": 60129,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -461,13 +461,45 @@
             ]
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
+        },
+        {
+          "node_type": "item",
+          "title": "backup-labs",
+          "description": "C# Windows MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source backup software for Windows 11: incremental backups to an external drive or NAS, encrypted archives, schedules, real-time and USB triggers, one-file restore.",
+            "homepage": "https://protagonistlabs.app/backuplabs/",
+            "id": 1391918823,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-05T09:13:38Z",
+            "open_issues": 0,
+            "owner": "limburatorul",
+            "repo": "backup-labs",
+            "stars": 0,
+            "topics": [
+              "backup",
+              "backup-tool",
+              "dotnet",
+              "encryption",
+              "file-backup",
+              "incremental-backup",
+              "open-source",
+              "windows",
+              "windows-11",
+              "wpf"
+            ]
+          },
+          "first_seen": "2026-10-06T07:39:04.362Z"
         }
       ],
       "title": "A list of FOSS backup software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:12:17.737Z",
+    "last_updated": "2026-10-06T07:39:04.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
@@ -475,7 +507,7 @@
       "id": 39332937,
       "language": null,
       "license": null,
-      "last_commit": "2025-09-10T19:28:51Z",
+      "last_commit": "2026-10-05T10:26:48Z",
       "open_issues": 4,
       "owner": "oz123",
       "repo": "awesome-backup",
@@ -486,7 +518,7 @@
         "foss-backup"
       ]
     },
-    "original_repository_sha": "93a296c6ca8e259a29cd8b77d295e9668d905203",
+    "original_repository_sha": "ad66b6f5ebc0cac883fc364b257305865eca10f9",
     "enhanced_repository": "enhansome/enhansome-backup",
     "enhanced_repository_description": null,
     "title": "Awesome Backup Software with stars"
