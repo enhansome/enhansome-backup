@@ -40,7 +40,7 @@
             "open_issues": 338,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5696,
+            "stars": 5695,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -61,7 +61,7 @@
             "open_issues": 195,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13811,
+            "stars": 13812,
             "topics": [
               "backup",
               "borgbackup",
@@ -107,11 +107,11 @@
             "id": 14712850,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T05:55:06Z",
+            "last_commit": "2026-10-06T09:10:30Z",
             "open_issues": 388,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89179,
+            "stars": 89178,
             "topics": [
               "go",
               "p2p",
@@ -235,7 +235,7 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T13:41:05Z",
+            "last_commit": "2026-10-06T09:04:31Z",
             "open_issues": 12,
             "owner": "amadvance",
             "repo": "snapraid",
@@ -293,7 +293,7 @@
             "open_issues": 324,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5267,
+            "stars": 5268,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T16:59:13Z",
-            "open_issues": 1325,
+            "last_commit": "2026-10-06T09:13:10Z",
+            "open_issues": 1323,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60129,
+            "stars": 60133,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:39:04.362Z",
+    "last_updated": "2026-10-06T10:46:57.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
