@@ -19,7 +19,7 @@
             "open_issues": 80,
             "owner": "grke",
             "repo": "burp",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -40,7 +40,7 @@
             "open_issues": 338,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5695,
+            "stars": 5696,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T05:45:44Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-06T20:36:48Z",
+            "open_issues": 192,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13812,
+            "stars": 13813,
             "topics": [
               "backup",
               "borgbackup",
@@ -87,10 +87,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T23:19:49Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7360,
+            "stars": 7357,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -107,11 +107,11 @@
             "id": 14712850,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T09:10:30Z",
-            "open_issues": 388,
+            "last_commit": "2026-10-07T01:27:42Z",
+            "open_issues": 389,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89178,
+            "stars": 89194,
             "topics": [
               "go",
               "p2p",
@@ -235,11 +235,11 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:04:31Z",
+            "last_commit": "2026-10-07T07:14:40Z",
             "open_issues": 12,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2585,
+            "stars": 2587,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -256,11 +256,11 @@
             "id": 22636263,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T11:39:51Z",
-            "open_issues": 615,
+            "last_commit": "2026-10-07T07:03:23Z",
+            "open_issues": 604,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15062,
+            "stars": 15064,
             "topics": [
               "backup",
               "c-sharp",
@@ -290,10 +290,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T22:53:28Z",
-            "open_issues": 324,
+            "open_issues": 326,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5268,
+            "stars": 5271,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:13:10Z",
-            "open_issues": 1323,
+            "last_commit": "2026-10-06T11:23:02Z",
+            "open_issues": 1326,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60133,
+            "stars": 60150,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:57.069Z",
+    "last_updated": "2026-10-07T07:19:38.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
