@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T20:02:25Z",
-            "open_issues": 180,
+            "open_issues": 182,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13840,
+            "stars": 13847,
             "topics": [
               "backup",
               "borgbackup",
@@ -90,7 +90,7 @@
             "open_issues": 18,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7363,
+            "stars": 7365,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -111,7 +111,7 @@
             "open_issues": 391,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89404,
+            "stars": 89433,
             "topics": [
               "go",
               "p2p",
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "zpaq",
             "repo": "zpaq",
-            "stars": 637,
+            "stars": 638,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -235,11 +235,11 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T21:47:16Z",
+            "last_commit": "2026-10-15T13:35:35Z",
             "open_issues": 13,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2588,
+            "stars": 2589,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -260,7 +260,7 @@
             "open_issues": 595,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15088,
+            "stars": 15097,
             "topics": [
               "backup",
               "c-sharp",
@@ -290,10 +290,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-15T00:59:03Z",
-            "open_issues": 326,
+            "open_issues": 327,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5285,
+            "stars": 5288,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:42:19Z",
-            "open_issues": 1301,
+            "last_commit": "2026-10-15T16:41:49Z",
+            "open_issues": 1204,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60308,
+            "stars": 60319,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -474,7 +474,7 @@
             "id": 1391918823,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-15T05:42:15Z",
+            "last_commit": "2026-10-16T05:43:38Z",
             "open_issues": 0,
             "owner": "limburatorul",
             "repo": "backup-labs",
@@ -493,13 +493,34 @@
             ]
           },
           "first_seen": "2026-10-06T07:39:04.362Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tinybackup",
+          "description": "Bash CLI, Web MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tiny Kopia-based backup script. Simple configuration file, multi-backend support ( local, SFTP, S3, rclone)",
+            "homepage": null,
+            "id": 1419837356,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-14T20:52:36Z",
+            "open_issues": 0,
+            "owner": "bderenzo",
+            "repo": "tinybackup",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-16T05:56:37.397Z"
         }
       ],
       "title": "A list of FOSS backup software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:57:35.365Z",
+    "last_updated": "2026-10-16T05:56:37.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
@@ -507,7 +528,7 @@
       "id": 39332937,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-05T10:26:48Z",
+      "last_commit": "2026-10-15T17:43:32Z",
       "open_issues": 5,
       "owner": "oz123",
       "repo": "awesome-backup",
@@ -518,7 +539,7 @@
         "foss-backup"
       ]
     },
-    "original_repository_sha": "ad66b6f5ebc0cac883fc364b257305865eca10f9",
+    "original_repository_sha": "38f178ac40aa9eb9e12672b439caa976d35ae035",
     "enhanced_repository": "enhansome/enhansome-backup",
     "enhanced_repository_description": null,
     "title": "Awesome Backup Software with stars"
