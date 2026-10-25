@@ -40,7 +40,7 @@
             "open_issues": 338,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5699,
+            "stars": 5700,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T22:07:17Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-25T01:27:34Z",
+            "open_issues": 180,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13876,
+            "stars": 13878,
             "topics": [
               "backup",
               "borgbackup",
@@ -90,7 +90,7 @@
             "open_issues": 18,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7363,
+            "stars": 7364,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -108,10 +108,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-10-24T01:17:48Z",
-            "open_issues": 392,
+            "open_issues": 391,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89672,
+            "stars": 89713,
             "topics": [
               "go",
               "p2p",
@@ -137,7 +137,7 @@
             "open_issues": 279,
             "owner": "digint",
             "repo": "btrbk",
-            "stars": 2162,
+            "stars": 2163,
             "topics": [
               "backup",
               "btrfs",
@@ -236,10 +236,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T09:05:38Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2593,
+            "stars": 2594,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -256,11 +256,11 @@
             "id": 22636263,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T18:56:21Z",
-            "open_issues": 590,
+            "last_commit": "2026-10-24T16:39:43Z",
+            "open_issues": 595,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15162,
+            "stars": 15164,
             "topics": [
               "backup",
               "c-sharp",
@@ -289,11 +289,11 @@
             "id": 266877886,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T13:30:37Z",
-            "open_issues": 326,
+            "last_commit": "2026-10-24T13:59:48Z",
+            "open_issues": 325,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5306,
+            "stars": 5309,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-22T10:48:20Z",
-            "open_issues": 1262,
+            "last_commit": "2026-10-24T14:27:38Z",
+            "open_issues": 1265,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60499,
+            "stars": 60521,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -478,7 +478,7 @@
             "open_issues": 0,
             "owner": "limburatorul",
             "repo": "backup-labs",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "backup",
               "backup-tool",
@@ -527,8 +527,8 @@
             "id": 1092825856,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:28:28Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-24T09:03:05Z",
+            "open_issues": 143,
             "owner": "ATAC-Helicopter",
             "repo": "VaultSync",
             "stars": 50,
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:00:43.482Z",
+    "last_updated": "2026-10-25T06:17:24.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
@@ -566,7 +566,7 @@
       "open_issues": 7,
       "owner": "oz123",
       "repo": "awesome-backup",
-      "stars": 148,
+      "stars": 149,
       "topics": [
         "awesome-list",
         "backup",
