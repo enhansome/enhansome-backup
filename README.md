@@ -8,37 +8,37 @@
 | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------------------------ | --------------------- |
 | [burp](https://github.com/grke/burp) ⭐ 503 \| 🐛 81 \| 🌐 C \| 📅 2026-07-13                                                   | C               | Unix,Mac,Windows,Web           | AGPLv3                |
 | [duplicity](http://duplicity.nongnu.org/)                                                                                      | Python2         | CLI                            | GPLv2                 |
-| [duplicacy](https://github.com/gilbertchen/duplicacy) ⭐ 5,701 \| 🐛 338 \| 🌐 Go \| 📅 2026-10-23                              | Go              | Mac, Windows, Web              | Free for personal use |
-| [borg](https://github.com/borgbackup/borg) ⭐ 13,879 \| 🐛 180 \| 🌐 Python \| 📅 2026-10-26                                    | Python3         | CLI, Web                       | BSD                   |
+| [duplicacy](https://github.com/gilbertchen/duplicacy) ⭐ 5,704 \| 🐛 338 \| 🌐 Go \| 📅 2026-10-27                              | Go              | Mac, Windows, Web              | Free for personal use |
+| [borg](https://github.com/borgbackup/borg) ⭐ 13,883 \| 🐛 181 \| 🌐 Python \| 📅 2026-10-27                                    | Python3         | CLI, Web                       | BSD                   |
 | [zbackup](http://zbackup.org/)                                                                                                 | C++             | CLI                            | GPLv2                 |
 | [bup](https://github.com/bup/bup) ⭐ 7,365 \| 🐛 18 \| 🌐 Python \| 📅 2026-10-21                                               | Python2         | CLI, GTK, QT                   | GPLv2                 |
 | [restic](http://restic.github.io)                                                                                              | Go              | CLI                            | BSD 2 Clause          |
 | [git-annex-assistant](https://git-annex.branchable.com/assistant/)                                                             | Haskell         | Unix,Mac,Windows, Web, Android | AGPL\GPL              |
 | [poppins](https://bitbucket.org/poppins/poppins)                                                                               | PHP (ssh,rsync) | CLI                            | GPLv3                 |
-| [syncthing](https://github.com/syncthing/syncthing) ⭐ 89,756 \| 🐛 391 \| 🌐 Go \| 📅 2026-10-26                               | Go              | CLI, Web, Android, GTK         | MPLv2                 |
-| [btrbk](https://github.com/digint/btrbk) ⭐ 2,163 \| 🐛 279 \| 🌐 Perl \| 📅 2026-07-19                                         | Perl            | CLI                            | GPLv3                 |
+| [syncthing](https://github.com/syncthing/syncthing) ⭐ 89,786 \| 🐛 397 \| 🌐 Go \| 📅 2026-10-27                               | Go              | CLI, Web, Android, GTK         | MPLv2                 |
+| [btrbk](https://github.com/digint/btrbk) ⭐ 2,165 \| 🐛 279 \| 🌐 Perl \| 📅 2026-07-19                                         | Perl            | CLI                            | GPLv3                 |
 | [rdedup](https://github.com/dpc/rdedup.git) ⭐ 857 \| 🐛 51 \| 🌐 Rust \| 📅 2022-08-25                                         | Rust            | CLI                            | MPL-2                 |
 | [knoxite](https://github.com/knoxite/knoxite) ⭐ 493 \| 🐛 50 \| 🌐 Go \| 📅 2023-08-29                                         | Go              | CLI                            | AGPLv3                |
-| [zpaq](https://github.com/zpaq/zpaq) ⭐ 640 \| 🐛 1 \| 🌐 C++ \| 📅 2022-10-12                                                  | C++             | CLI                            | Public Domain         |
+| [zpaq](https://github.com/zpaq/zpaq) ⭐ 641 \| 🐛 1 \| 🌐 C++ \| 📅 2022-10-12                                                  | C++             | CLI                            | Public Domain         |
 | [scat](https://gitlab.com/Roman2K/scat)                                                                                        | Go              | CLI                            | MIT                   |
 | [snapraid](https://github.com/amadvance/snapraid/) ⭐ 2,596 \| 🐛 6 \| 🌐 C \| 📅 2026-10-26                                    | C               | CLI                            | GPLv3                 |
 | [dar](http://dar.linux.free.fr/)                                                                                               | C++             | CLI                            | GPLv2                 |
 | [dargui](http://dargui.sourceforge.net/)                                                                                       | C++             | Unix, Windows                  | GPLv3                 |
 | [freefilesync](https://freefilesync.org/)                                                                                      | C++             | Unix, Mac, Windows             | GPLv3                 |
-| [duplicati](https://github.com/duplicati/duplicati) ⭐ 15,167 \| 🐛 573 \| 🌐 C# \| 📅 2026-10-25                               | C#              | Unix, Mac, Windows             | LGPLv3                |
+| [duplicati](https://github.com/duplicati/duplicati) ⭐ 15,172 \| 🐛 569 \| 🌐 C# \| 📅 2026-10-26                               | C#              | Unix, Mac, Windows             | LGPLv3                |
 | [urback](https://www.urbackup.org/index.html)                                                                                  | C               | ˇUnix, Mac, Windows, Web       | AGPLv3                |
-| [rsync](https://github.com/WayneD/rsync) ⭐ 5,313 \| 🐛 326 \| 🌐 C \| 📅 2026-10-24                                            | C               | CLI                            | GPLv3                 |
+| [rsync](https://github.com/WayneD/rsync) ⭐ 5,315 \| 🐛 322 \| 🌐 C \| 📅 2026-10-26                                            | C               | CLI                            | GPLv3                 |
 | [backup-anything](https://github.com/gui-text/backup-anything/blob/master/README.md) ⭐ 21 \| 🐛 0 \| 🌐 Shell \| 📅 2022-03-19 | Shell           | Linux, Mac                     | MIT                   |
 | [kopia](https://kopia.io)                                                                                                      | Go              | Linux, Mac, Windows            | Apache License 2.0    |
 | [backy](https://github.com/vdbsh/backy) ⚠️ Archived                                                                            | Go              | CLI                            | BSD-3-Clause          |
-| [gobackup](https://github.com/gobackup/gobackup) ⭐ 3,082 \| 🐛 12 \| 🌐 Go \| 📅 2026-08-14                                    | Go              | CLI                            | MIT                   |
-| [gobackup](https://github.com/gobackup/gobackup) ⭐ 3,082 \| 🐛 12 \| 🌐 Go \| 📅 2026-08-14                                    | Go              | CLI                            | MIT                   |
-| [rclone](https://github.com/rclone/rclone) ⭐ 60,543 \| 🐛 1,267 \| 🌐 Go \| 📅 2026-10-24                                      | Go              | CLI                            | MIT                   |
+| [gobackup](https://github.com/gobackup/gobackup) ⭐ 3,081 \| 🐛 12 \| 🌐 Go \| 📅 2026-08-14                                    | Go              | CLI                            | MIT                   |
+| [gobackup](https://github.com/gobackup/gobackup) ⭐ 3,081 \| 🐛 12 \| 🌐 Go \| 📅 2026-08-14                                    | Go              | CLI                            | MIT                   |
+| [rclone](https://github.com/rclone/rclone) ⭐ 60,564 \| 🐛 1,262 \| 🌐 Go \| 📅 2026-10-26                                      | Go              | CLI                            | MIT                   |
 | [plakar](https://plakar.io/)                                                                                                   | Go              | CLI, Web                       | MIT                   |
 | [minarca](https://minarca.org/)                                                                                                | Python          | CLI, Linux, Mac, Windows, Web  | GPLv2                 |
-| [backup-labs](https://github.com/limburatorul/backup-labs) ⭐ 1 \| 🐛 0 \| 🌐 C# \| 📅 2026-10-25                               | C#              | Windows                        | MIT                   |
+| [backup-labs](https://github.com/limburatorul/backup-labs) ⭐ 1 \| 🐛 0 \| 🌐 C# \| 📅 2026-10-26                               | C#              | Windows                        | MIT                   |
 | [tinybackup](https://github.com/bderenzo/tinybackup) ⭐ 4 \| 🐛 0 \| 🌐 Shell \| 📅 2026-10-16                                  | Bash            | CLI, Web                       | MIT                   |
-| [VaultSync](https://github.com/ATAC-Helicopter/VaultSync) ⭐ 50 \| 🐛 147 \| 🌐 C# \| 📅 2026-10-25                             | C# (.NET)       | Linux, Mac, Windows            | MIT                   |
+| [VaultSync](https://github.com/ATAC-Helicopter/VaultSync) ⭐ 50 \| 🐛 149 \| 🌐 C# \| 📅 2026-10-26                             | C# (.NET)       | Linux, Mac, Windows            | MIT                   |
 
 Know any good backup Software? Make a PR! I'll add it here!
 
@@ -48,4 +48,4 @@ TSM.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
