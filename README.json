@@ -37,10 +37,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T00:54:07Z",
-            "open_issues": 338,
+            "open_issues": 339,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5704,
+            "stars": 5702,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -57,11 +57,11 @@
             "id": 35517126,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T05:47:15Z",
-            "open_issues": 181,
+            "last_commit": "2026-10-27T15:28:27Z",
+            "open_issues": 179,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13883,
+            "stars": 13886,
             "topics": [
               "backup",
               "borgbackup",
@@ -90,7 +90,7 @@
             "open_issues": 18,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7365,
+            "stars": 7363,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -107,11 +107,11 @@
             "id": 14712850,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-27T01:21:56Z",
-            "open_issues": 397,
+            "last_commit": "2026-10-28T01:04:38Z",
+            "open_issues": 396,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 89786,
+            "stars": 89826,
             "topics": [
               "go",
               "p2p",
@@ -236,10 +236,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T06:36:33Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2596,
+            "stars": 2597,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -256,8 +256,8 @@
             "id": 22636263,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T13:31:54Z",
-            "open_issues": 569,
+            "last_commit": "2026-10-27T14:49:02Z",
+            "open_issues": 572,
             "owner": "duplicati",
             "repo": "duplicati",
             "stars": 15172,
@@ -293,7 +293,7 @@
             "open_issues": 322,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5315,
+            "stars": 5318,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-26T17:41:40Z",
-            "open_issues": 1262,
+            "last_commit": "2026-10-27T17:56:57Z",
+            "open_issues": 1271,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 60564,
+            "stars": 60585,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -527,8 +527,8 @@
             "id": 1092825856,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:28:04Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-27T20:40:15Z",
+            "open_issues": 151,
             "owner": "ATAC-Helicopter",
             "repo": "VaultSync",
             "stars": 50,
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:25:39.820Z",
+    "last_updated": "2026-10-28T06:55:37.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
@@ -563,7 +563,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-19T11:45:02Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "oz123",
       "repo": "awesome-backup",
       "stars": 149,
