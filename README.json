@@ -40,7 +40,7 @@
             "open_issues": 341,
             "owner": "gilbertchen",
             "repo": "duplicacy",
-            "stars": 5708,
+            "stars": 5709,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -61,7 +61,7 @@
             "open_issues": 187,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13950,
+            "stars": 13954,
             "topics": [
               "backup",
               "borgbackup",
@@ -90,7 +90,7 @@
             "open_issues": 17,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7370,
+            "stars": 7369,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -107,11 +107,11 @@
             "id": 14712850,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-25T09:51:39Z",
-            "open_issues": 408,
+            "last_commit": "2026-11-26T01:03:54Z",
+            "open_issues": 404,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 90810,
+            "stars": 90853,
             "topics": [
               "go",
               "p2p",
@@ -236,10 +236,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T19:51:35Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2602,
+            "stars": 2603,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -256,11 +256,11 @@
             "id": 22636263,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T08:37:19Z",
-            "open_issues": 386,
+            "last_commit": "2026-11-25T22:13:30Z",
+            "open_issues": 375,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15226,
+            "stars": 15229,
             "topics": [
               "backup",
               "c-sharp",
@@ -289,11 +289,11 @@
             "id": 266877886,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T07:41:07Z",
-            "open_issues": 259,
+            "last_commit": "2026-11-26T09:09:34Z",
+            "open_issues": 256,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5382,
+            "stars": 5383,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -380,7 +380,7 @@
             "open_issues": 12,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3096,
+            "stars": 3095,
             "topics": [
               "backup",
               "cli",
@@ -408,7 +408,7 @@
             "open_issues": 12,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3096,
+            "stars": 3095,
             "topics": [
               "backup",
               "cli",
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-23T17:43:43Z",
-            "open_issues": 1377,
+            "last_commit": "2026-11-25T12:32:58Z",
+            "open_issues": 1373,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 61250,
+            "stars": 61287,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -527,8 +527,8 @@
             "id": 1092825856,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:35:45Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-26T09:23:55Z",
+            "open_issues": 113,
             "owner": "ATAC-Helicopter",
             "repo": "VaultSync",
             "stars": 52,
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:55:56.470Z",
+    "last_updated": "2026-11-26T09:40:05.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
