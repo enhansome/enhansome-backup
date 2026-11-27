@@ -61,7 +61,7 @@
             "open_issues": 187,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13954,
+            "stars": 13956,
             "topics": [
               "backup",
               "borgbackup",
@@ -90,7 +90,7 @@
             "open_issues": 17,
             "owner": "bup",
             "repo": "bup",
-            "stars": 7369,
+            "stars": 7370,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -111,7 +111,7 @@
             "open_issues": 404,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 90853,
+            "stars": 90900,
             "topics": [
               "go",
               "p2p",
@@ -137,7 +137,7 @@
             "open_issues": 280,
             "owner": "digint",
             "repo": "btrbk",
-            "stars": 2185,
+            "stars": 2186,
             "topics": [
               "backup",
               "btrfs",
@@ -235,11 +235,11 @@
             "id": 17883395,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T19:51:35Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-26T09:54:33Z",
+            "open_issues": 8,
             "owner": "amadvance",
             "repo": "snapraid",
-            "stars": 2603,
+            "stars": 2604,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -256,11 +256,11 @@
             "id": 22636263,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T22:13:30Z",
-            "open_issues": 375,
+            "last_commit": "2026-11-27T09:35:11Z",
+            "open_issues": 377,
             "owner": "duplicati",
             "repo": "duplicati",
-            "stars": 15229,
+            "stars": 15230,
             "topics": [
               "backup",
               "c-sharp",
@@ -289,11 +289,11 @@
             "id": 266877886,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T09:09:34Z",
-            "open_issues": 256,
+            "last_commit": "2026-11-27T06:48:40Z",
+            "open_issues": 254,
             "owner": "RsyncProject",
             "repo": "rsync",
-            "stars": 5383,
+            "stars": 5384,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:10.490Z"
@@ -380,7 +380,7 @@
             "open_issues": 12,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3095,
+            "stars": 3096,
             "topics": [
               "backup",
               "cli",
@@ -408,7 +408,7 @@
             "open_issues": 12,
             "owner": "gobackup",
             "repo": "gobackup",
-            "stars": 3095,
+            "stars": 3096,
             "topics": [
               "backup",
               "cli",
@@ -432,11 +432,11 @@
             "id": 17803236,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-25T12:32:58Z",
-            "open_issues": 1373,
+            "last_commit": "2026-11-26T14:07:16Z",
+            "open_issues": 1372,
             "owner": "rclone",
             "repo": "rclone",
-            "stars": 61287,
+            "stars": 61321,
             "topics": [
               "azure-blob",
               "azure-blob-storage",
@@ -527,8 +527,8 @@
             "id": 1092825856,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-26T09:23:55Z",
-            "open_issues": 113,
+            "last_commit": "2026-11-27T03:38:10Z",
+            "open_issues": 107,
             "owner": "ATAC-Helicopter",
             "repo": "VaultSync",
             "stars": 52,
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:40:05.669Z",
+    "last_updated": "2026-11-27T09:45:24.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of FOSS backup software",
